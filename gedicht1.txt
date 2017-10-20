@@ -3,3 +3,4 @@ red
 green
 blue
 paars
+Dit zijn de kleuren v.d. regenboog
